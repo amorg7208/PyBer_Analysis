@@ -13,9 +13,9 @@ The purpose of this analysis is to compare urban, suburban, and rural areas who 
 As expected, there is a higher demand for ride-share services in urban areas compared to rural areas. 
 
 ### Total Drivers
-  - Urban cities had 59,602 total drivers. 
-  - Suburban cities had 8,570 total drivers. 
-  - Rural towns had 537 total drivers. <br />
+  - Urban cities had 2,405 total drivers. 
+  - Suburban cities had 490 total drivers. 
+  - Rural towns had 78 total drivers. <br />
 There are more drivers in urban areas compared to suburban or rural areas.
 
 ### Total Fares
